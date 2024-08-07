@@ -8,9 +8,9 @@ variable "tenant_id" {
 }
 
 variable "location" {
-    default = "eastus"
+    #default = "eastus"
 }
 
 variable "resource_group_name" {
-    default = "tf-workshop-resources"
+    #default = "tf-workshop-resources"
 }
